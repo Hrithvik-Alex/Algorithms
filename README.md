@@ -1,2 +1,2 @@
-# Djikstra
-djikstra's algorithm in python
+# Algorithms
+algorithms in python
