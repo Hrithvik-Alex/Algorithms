@@ -18,6 +18,6 @@ class HashTable(object):
 
 hash_table = HashTable()
 
-word = raw_input("Enter a string: ")
+word = raw_input("Enter a string: ") # input
 hash_table.store(str(word))
 print "Hash value is " + str(hash_table.search(word))
